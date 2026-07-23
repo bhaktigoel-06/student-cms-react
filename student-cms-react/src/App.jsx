@@ -60,4 +60,6 @@ const courses = [
       <StatsDashboard students={filteredStudents} />
     </>
   );
+
+  
 }
