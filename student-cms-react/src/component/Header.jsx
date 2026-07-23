@@ -1,5 +1,9 @@
-export default function Header(){
-    return (
-        <h1>Student CMS</h1>
-    );
+
+
+export default function Header() {
+  return (
+    <header className="header">
+      <h1>Student Course Management System</h1>
+    </header>
+  );
 }
